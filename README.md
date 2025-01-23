@@ -1,3 +1,4 @@
 # Web-Dev-p1
 
-Begining after the end
+This is the Start of my Web Development project
+Excited for this!
